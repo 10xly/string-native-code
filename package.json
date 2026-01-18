@@ -1,0 +1,35 @@
+{
+  "name": "string-native-code",
+  "version": "1.0.1",
+  "description": "The string \"[native code]\" as an npm package.",
+  "homepage": "https://github.com/10xly/string-native-code#readme",
+  "bugs": {
+    "url": "https://github.com/10xly/string-native-code/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10xly/string-native-code.git"
+  },
+  "license": "ISC",
+  "author": "10x'ly made",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@characters/left-square-bracket": "^2.1.0",
+    "@characters/right-square-bracket": "^2.1.0",
+    "@lowercase-letters/a": "^3.0.0",
+    "@lowercase-letters/c": "^3.0.0",
+    "@lowercase-letters/d": "^3.0.0",
+    "@lowercase-letters/e": "^3.0.0",
+    "@lowercase-letters/i": "^3.0.0",
+    "@lowercase-letters/n": "^3.0.0",
+    "@lowercase-letters/o": "^3.0.0",
+    "@lowercase-letters/t": "^3.0.0",
+    "@lowercase-letters/v": "^3.0.0",
+    "@rightpad/concat": "^1.0.0",
+    "space-string": "^1.0.0"
+  }
+}
